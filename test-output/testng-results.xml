@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-23T20:00:26 IST" name="Default suite" finished-at="2024-02-23T20:01:08 IST" duration-ms="41191">
+    <groups>
+    </groups>
+    <test started-at="2024-02-23T20:00:26 IST" name="Default test" finished-at="2024-02-23T20:01:08 IST" duration-ms="41191">
+      <class name="tests.LoginPageTest_Para">
+        <test-method is-config="true" signature="init()[pri:0, instance:tests.LoginPageTest_Para@8f2ef19]" started-at="2024-02-23T20:00:27 IST" name="init" finished-at="2024-02-23T20:00:51 IST" duration-ms="24834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="enterCred()[pri:1, instance:tests.LoginPageTest_Para@8f2ef19]" started-at="2024-02-23T20:00:51 IST" name="enterCred" finished-at="2024-02-23T20:00:58 IST" duration-ms="6362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCred -->
+        <test-method signature="clickPassLink()[pri:2, instance:tests.LoginPageTest_Para@8f2ef19]" started-at="2024-02-23T20:00:58 IST" name="clickPassLink" finished-at="2024-02-23T20:01:01 IST" duration-ms="3279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickPassLink -->
+        <test-method signature="clickChechBox()[pri:3, instance:tests.LoginPageTest_Para@8f2ef19]" started-at="2024-02-23T20:01:01 IST" name="clickChechBox" finished-at="2024-02-23T20:01:05 IST" duration-ms="3544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickChechBox -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.LoginPageTest_Para@8f2ef19]" started-at="2024-02-23T20:01:05 IST" name="closeBrowser" finished-at="2024-02-23T20:01:08 IST" duration-ms="3030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.LoginPageTest_Para -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
